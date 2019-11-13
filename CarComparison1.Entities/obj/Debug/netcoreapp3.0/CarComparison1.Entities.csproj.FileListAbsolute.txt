@@ -1,0 +1,8 @@
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Entities\bin\Debug\netcoreapp3.0\CarComparison1.Entities.deps.json
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Entities\bin\Debug\netcoreapp3.0\CarComparison1.Entities.dll
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Entities\bin\Debug\netcoreapp3.0\CarComparison1.Entities.pdb
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Entities\obj\Debug\netcoreapp3.0\CarComparison1.Entities.csprojAssemblyReference.cache
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Entities\obj\Debug\netcoreapp3.0\CarComparison1.Entities.AssemblyInfoInputs.cache
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Entities\obj\Debug\netcoreapp3.0\CarComparison1.Entities.AssemblyInfo.cs
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Entities\obj\Debug\netcoreapp3.0\CarComparison1.Entities.dll
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Entities\obj\Debug\netcoreapp3.0\CarComparison1.Entities.pdb

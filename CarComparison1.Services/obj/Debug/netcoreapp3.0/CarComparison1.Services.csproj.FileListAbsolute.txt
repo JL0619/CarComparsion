@@ -1,0 +1,13 @@
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Services\bin\Debug\netcoreapp3.0\CarComparison1.Data.dll
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Services\bin\Debug\netcoreapp3.0\CarComparison1.Entities.dll
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Services\obj\Debug\netcoreapp3.0\CarComparison1.Services.csprojAssemblyReference.cache
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Services\obj\Debug\netcoreapp3.0\CarComparison1.Services.AssemblyInfoInputs.cache
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Services\obj\Debug\netcoreapp3.0\CarComparison1.Services.AssemblyInfo.cs
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Services\bin\Debug\netcoreapp3.0\CarComparison1.Services.deps.json
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Services\bin\Debug\netcoreapp3.0\CarComparison1.Services.dll
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Services\bin\Debug\netcoreapp3.0\CarComparison1.Services.pdb
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Services\bin\Debug\netcoreapp3.0\CarComparison1.Data.pdb
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Services\bin\Debug\netcoreapp3.0\CarComparison1.Entities.pdb
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Services\obj\Debug\netcoreapp3.0\CarComparison1.Services.csproj.CopyComplete
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Services\obj\Debug\netcoreapp3.0\CarComparison1.Services.dll
+C:\Users\liangsimin\source\repos\CarComparison1.API\CarComparison1.Services\obj\Debug\netcoreapp3.0\CarComparison1.Services.pdb
